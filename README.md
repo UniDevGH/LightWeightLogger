@@ -1,4 +1,4 @@
-# LightWeightLogger——一个用C语言开发的轻量的日志框架
+# LightWeightLogger——一个C语言轻量日志框架
 ## 使用方法
 ### 输出调试信息  
 ```C
