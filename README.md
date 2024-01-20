@@ -2,16 +2,26 @@
 ## 使用方法
 ### void Debug(const char* text)
 输出调试信息  
-    Debug("This is a debug message.");
+```
+Debug("This is a debug message.");
+```
 ### void Info(const char* text)
 输出信息  
-    Info("This is a info message.");
+```
+Info("This is a info message.");
+```
 ### void Warn(const char* text)
 输出警告信息  
-    Warn("This is a warning message.");
+```
+Warn("This is a warning message.");
+```
 ### void Error(const char* text)
 输出错误信息  
-    Error("This is a error message.");
+```
+Error("This is a error message.");
+```
 ### void Fatal(const char* text)
 输出严重错误信息  
-    Fatal("This is a fatal message.");
+```
+Fatal("This is a fatal message.");
+```
